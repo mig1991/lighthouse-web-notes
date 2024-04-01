@@ -2,9 +2,11 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Miguel Augusto for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Miguel Augusto](https://github.com/mig1991) for the Lighthouse Labs Web Development Bootcamp.
 
 
-# This is an H1 header (largest)
+# Header Sizing
+using one # gives you the largest header size
 
-###### This is an H6 header (smallest)
+using ###### will give you the smallest
+
